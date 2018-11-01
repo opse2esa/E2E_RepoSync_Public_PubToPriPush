@@ -35,13 +35,13 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/E2E_RepoSync_Public_PubToPriPush/breadcrumb/toc.json",
+      "breadcrumb_path": "/E2E_RepoSync_Private_PubToPriPush/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_RepoSync_Public_PubToPriPush",
+    "dest": "E2E_RepoSync_Private_PubToPriPush",
     "markdownEngineName": "markdig"
   }
 }
